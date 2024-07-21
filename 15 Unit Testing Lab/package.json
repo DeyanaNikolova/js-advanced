@@ -1,0 +1,22 @@
+{
+  "name": "test.js",
+  "version": "1.0.0",
+  "main": "test.js",
+  "dependencies": {
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "test",
+    "demo"
+  ],
+  "author": "DN",
+  "license": "MIT",
+  "description": ""
+}
